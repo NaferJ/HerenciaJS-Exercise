@@ -2,6 +2,7 @@
 Lunes 14 de Agosto del 2023
 
 ## Exercise number 1
+Este código simula un sistema simple de registro y consulta de personas con diferentes roles (empleados y clientes), con propiedades específicas para cada uno, y un identificador único para cada registro.
 
 1.  const personas = [];:
         Se crea un array llamado personas para almacenar la información de las personas registradas.
